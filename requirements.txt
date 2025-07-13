@@ -13,7 +13,6 @@ colorama==0.4.6
 frozenlist==1.7.0
 idna==3.10
 libretranslatepy==2.1.1
-logging==0.4.9.6
 lxml==6.0.0
 magic-filter==1.0.12
 multidict==6.6.3
